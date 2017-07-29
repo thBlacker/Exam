@@ -72,7 +72,7 @@ public class LoginServlet extends HttpServlet {
 		        	try {
 						con.close();
 					} catch (SQLException e) {
-						// TODO Auto-generated catch block
+						
 						e.printStackTrace();
 					}
 		        }
